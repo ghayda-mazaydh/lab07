@@ -55,13 +55,3 @@ function locationHandler (request, response) {
          this.time = new Date (day.time*1000).toDateString();
      }
 
-
-
-
-
-
-
-
-
-
-    
